@@ -1,0 +1,1 @@
+Here is the inital commit, readme.txt, to the HNGi7 repository. The first of many. 
